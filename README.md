@@ -1,6 +1,6 @@
-A simple YouTube transcriptions generator using OpenAI GPT-3.5.
+A simple YouTube transcriptions generator using *OpenAI GPT-3.5*.
 
-This is not intended for final user usage, is just for learning `LangChain`. Full guide: https://www.youtube.com/watch?v=MlK6SIjcjE8
+This is not intended for final user usage, is just for learning *LangChain*. Full guide: https://www.youtube.com/watch?v=MlK6SIjcjE8
 
 # Usage
 
