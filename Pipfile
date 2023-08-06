@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 langchain = "*"
+streamlit = "*"
+wikipedia = "*"
+openai = "*"
+chromadb = "*"
+tiktoken = "*"
+watchdog = "*"
 
 [dev-packages]
 
