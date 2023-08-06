@@ -1,0 +1,1 @@
+A simple YouTube transcriptions generator using OpenAI GPT-3.5. Full guide: https://www.youtube.com/watch?v=MlK6SIjcjE8
